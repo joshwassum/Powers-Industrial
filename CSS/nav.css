@@ -1,15 +1,15 @@
 a{
-  color: green;
+  color: white;
 }
-.nav-wrapper{
-  background-color: #white;
+#nav-wrapper{
+  background-color: #EC4E20;
   float: right:
 }
 a:hover{
   background-color: #3A3042;
   border-radius: 45px;
 }
-.title{
+#title{
   float: left;
   color: white;
 }
