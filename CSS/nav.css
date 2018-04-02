@@ -2,8 +2,12 @@ a{
   color: green;
 }
 .nav-wrapper{
-  background-color: #EC4E20;
+  background-color: #white;
   float: right:
+}
+a:hover{
+  background-color: #3A3042;
+  border-radius: 45px;
 }
 .title{
   float: left;
