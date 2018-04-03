@@ -6,4 +6,6 @@ p{
   max-width: 500px;
   min-width: 50px;
   background-color: #DBB66C;
+  position: relative;
+  left: 10px;
 }
