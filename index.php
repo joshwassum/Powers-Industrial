@@ -1,6 +1,3 @@
-<head>
-  <link href="CSS/site.css" rel="stylesheet" type="text/css">
-</head>
 <?php get_header(); ?>
 <div id="main">
 <div id="content">
