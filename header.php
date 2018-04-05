@@ -1,10 +1,11 @@
-
 <html>
-  <head>
-    <link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet">
-    <link href="CSS/nav.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
+<head>
+<title>Powers Industrial Hardware</title>
+<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+<link href="https://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet">
+</head>
+<body>
+</div>
     <header>
     <nav>
           <h1> Powers Industrial Hardware</h1>
@@ -18,4 +19,3 @@
   <div id="line">
   </div>
   </body>
-</html>
